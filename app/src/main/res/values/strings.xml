@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="show_popup">Show Popup</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+    <string-array name="countries_array">
+        <item>Kenya</item>
+        <item>USA</item>
+        <item>Brazil</item>
+        <item>United Kingdom</item>
+        <item>South African</item>
+        <item>Australia</item>
+    </string-array>
+</resources>
